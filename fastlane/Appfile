@@ -1,0 +1,6 @@
+app_identifier("Prabhat-Pandey.NyTimesNewsApp") # The bundle identifier of your app
+apple_id("p.prabhat2013@gmail.com") # Your Apple email address
+
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

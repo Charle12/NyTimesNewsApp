@@ -1,0 +1,61 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9c192188-bc58-5a8b-9022-11b989ec2b68",
+      "url": "https://www.nytimes.com/2020/12/07/us/trump-covid-vaccine-pfizer.html",
+      "id": 100000007491128,
+      "asset_id": 100000007491128,
+      "source": "New York Times",
+      "published_date": "2020-12-07",
+      "updated": "2020-12-11 16:16:21",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Sharon LaFraniere, Katie Thomas and Noah Weiland",
+      "type": "Article",
+      "title": "Trump administration officials passed when Pfizer offered months ago to sell the U.S. more vaccine doses.",
+      "abstract": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration is said to have turned down an offer from Pfizer to purchase additional doses of its vaccine. ",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
